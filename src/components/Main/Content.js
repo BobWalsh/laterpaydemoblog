@@ -24,8 +24,7 @@ const styles = theme => ({
       background: "#f3f3f3",
       textShadow: "none",
       color: "#333",
-      padding: ".1em .3em .2em",
-      borderRadius: ".1em"
+      padding: ".1em .3em .2em"
     },
     "& .gatsby-resp-image-link": {
       margin: "2em -1.5rem",

@@ -346,7 +346,6 @@ export default {
       transform: "translate(-50%, -50%)",
       padding: "1.5rem 2.5rem",
       fontWeight: 400,
-      borderRadius: "2px",
       boxShadow: "0 0 10px 52px rgba(255,255,255,.8)"
     },
     body: {
