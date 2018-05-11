@@ -1,3 +1,20 @@
+# LaterPay demo built on a gatsby starter.
+* One line connector script in nnn component
+* Other LaterPay code can be discovered by searching for "LaterPay comment"
+* Deployed on Heroku: see [Deploying Gatsby](https://www.gatsbyjs.org/docs/deploy-gatsby/#heroku)
+* The purpose of this demo is to show:
+  * How LaterPay can be deployed, even as a static site, with 1 line of code.
+  * Showing off a typical set of pricing strategies:
+    * All posts are $1 USD.
+    * Some posts cost more: $1.25 USD.
+    * You can get a pass for a week for the entire site for $4.99 USD.
+    * You can get a subscription to the site (all existing and new posts) for a month for $16.99.S
+
+
+
+
+
+
 # PersonalBlog starter for Gatsby
 
 [DEMO website](https://gatsby-starter-personal-blog.greglobinski.com/)

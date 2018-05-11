@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-personal-blog",
-  "description": "A Gatsby starter for a personal blog",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "description": "LaterPay demo using a Gatsby starter for a personal blog",
+  "author": "Bob Walsh <bwalsh@laterpay.net>",
   "repository": "https://github.com/greglobinski/gatsby-starter-personal-blog",
   "version": "1.0.6",
   "license": "MIT",
