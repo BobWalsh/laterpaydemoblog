@@ -26,7 +26,6 @@ const Seo = props => {
       <title>{title}</title>
       <meta name="description" content={description} />
       {/* LaterPay Connector */}
-      <script type="text/javascript"   src="https://connector-script.uselaterpay.com/3-stable/us/prod/app-en-us.js"></script>
       {/* OpenGraph tags */}
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
