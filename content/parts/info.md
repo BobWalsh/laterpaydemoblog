@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+This is a demo of LaterPay, specifically, LaterPay's 1-line Connector script.

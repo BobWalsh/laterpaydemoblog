@@ -13,7 +13,7 @@ module.exports = {
   authorTwitterAccount: "bobwalsh",
   // info
   infoTitle: "Bob Walsh",
-  infoTitleNote: "personal blog",
+  infoTitleNote: "LaterPay Demo",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
   manifestShortName: "PersonalBlog", // max 12 characters

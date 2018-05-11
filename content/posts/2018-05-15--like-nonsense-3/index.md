@@ -1,5 +1,5 @@
 ---
-title: I like nonsense, it wakes up the brain cells
+title: I like nonsenses, it wakes up the brain cells
 subTitle: Fantasy is a necessary ingredient in living
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
