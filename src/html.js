@@ -20,6 +20,7 @@ module.exports = class HTML extends React.Component {
       <html {...this.props.htmlAttributes}>
         <head>
           <meta charSet="utf-8" />
+          <script type="text/javascript" src="https://connector-script.uselaterpay.com/3-stable/us/prod/app-en-us.js"></script>
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {this.props.headComponents}
