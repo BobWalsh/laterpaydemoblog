@@ -21,6 +21,15 @@ module.exports = class HTML extends React.Component {
         <head>
           <meta charSet="utf-8" />
           <script type="text/javascript" src="https://connector-script.uselaterpay.com/3-stable/us/sbx/app-en-us.js"></script>
+          <meta property="laterpay:connector:callbacks:on_ready" content="lpcReadyCallback">
+          <script type="text/javascript">
+              function lpcReadyCallback(lpcHandle) {
+                  console.log('Received lpcHandle:', lpcHandle)
+                  lpcHandle.preventDefault()
+                  // Use functions `lpcHandle.fetch()`, `lpcHandle.reset()` and `lpcHandle.init()`
+                  // to control the flow of Connector Script
+              }
+          </script>
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {this.props.headComponents}
